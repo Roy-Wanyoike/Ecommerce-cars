@@ -1,0 +1,14 @@
+header{
+
+}
+
+.nav-bar{
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+.nav-bar img{
+    justify-content: flex-start;
+    align-items:flex-start;
+    padding-left: 30px;
+}
