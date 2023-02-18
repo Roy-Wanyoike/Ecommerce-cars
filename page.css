@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    justify-content: space-evenly;
+    margin-bottom: auto;
+    background-color: #6edf3d;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+ion-icon {
+    font-size: 34px;
+  }
+  a{
+    display: flex;
+   flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+   gap: 10px;
+  }
+
+.copyright {
+  
+    width: fit-content;  
+    margin: auto;
+    padding-top: 20px;
+}
+  
