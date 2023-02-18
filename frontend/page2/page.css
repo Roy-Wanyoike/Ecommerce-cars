@@ -32,4 +32,19 @@ ion-icon {
     margin: auto;
     padding-top: 20px;
 }
-  
+header{
+    background-color: #6edf3d;
+    height: 100px;
+
+}
+
+.nav-bar{
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+.nav-bar img{
+    justify-content: flex-start;
+    align-items:flex-start;
+    padding-left: 30px;
+}
